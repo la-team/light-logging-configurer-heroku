@@ -12,6 +12,11 @@
     </context-param>
 
     <context-param>
+        <param-name>light:configurer:back-to-site-url</param-name>
+        <param-value>http://la-team.github.io/light-logging-configurer/</param-value>
+    </context-param>
+
+    <context-param>
         <param-name>light:configurer:demo-mode</param-name>
         <param-value>true</param-value>
     </context-param>
